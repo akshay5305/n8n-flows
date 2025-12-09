@@ -23,27 +23,11 @@ project-root/
 │   └── workflows/
 │       └── n8n-export.json
 │
-├── <folder-2>/
-│   └── README.md
-│
-├── <folder-3>/
-│   └── README.md
-│
-└── scripts/
-    └── utilities.md
 ```
 
 ### **1. gupshup-whatsapp-support-agent/**
 
 AI-powered automated WhatsApp support agent using Gupshup, n8n, Slack, Pinecone, and OpenAI.
-
-### **2. <folder-2>/**
-
-Short 1–2 line description of the second module.
-
-### **3. <folder-3>/**
-
-Short description of the third automation or integration.
 
 ---
 
@@ -60,5 +44,3 @@ This repository acts as a consolidated collection of all workflow automations, A
 * Use this root README as a roadmap to navigate the repository.
 
 ---
-
-If you'd like, I can automatically scan and list all your real folders with descriptions if you paste the folder names here.

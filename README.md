@@ -22,7 +22,6 @@ project-root/
 │   │   └── Screenshot3.png
 │   └── workflows/
 │       └── n8n-export.json
-│
 ```
 
 ### **1. gupshup-whatsapp-support-agent/**
